@@ -99,3 +99,4 @@ def all_task():
 
 print("Starting with Git/GitHub on 10 oct")
 print("Starting with Git/GitHub on 10 oct")
+print("Hello Pakistan")
